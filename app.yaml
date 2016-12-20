@@ -3,7 +3,7 @@ api_version: 1
 
 handlers:
 
-url: /stylesheets
+- url: /stylesheets
   static_dir: stylesheets
   
 - url: /.*
